@@ -1,6 +1,7 @@
 # win11-minigrey-desktop
-simple configs from my w11 current desktop, a work in progress,
-you dont have to do anything else before installing the files other than installing the JetBrainsMono Nerd fonts.
+simple configs from my w11 current desktop, a work in progress.
+If you want to recreate it you need to install Rainmeter, RetroBar and JetBrainsMono Nerd fonts and then the files here.
+And that is it :)
 
 ## Credits
 - [Wallpaper](https://wall.alphacoders.com/big.php?i=360189) (there are multiple sources so the link is where I think I got it from)
