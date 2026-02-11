@@ -1,7 +1,7 @@
 # win11-minigrey-desktop
 simple configs from my w11 current desktop, a work in progress.
 If you want to recreate it you need to install Rainmeter, RetroBar and JetBrainsMono Nerd fonts and then the files here.
-And that is it :)
+That is it :) admire the Homura wallpaper.
 
 ## Credits
 - [Wallpaper](https://wall.alphacoders.com/big.php?i=360189) (there are multiple sources so the link is where I think I got it from)
