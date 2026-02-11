@@ -1,6 +1,7 @@
 # win11-minigrey-desktop
-simple configs from my w11 current desktop, a work in progress 
-you dont have to do anything else after installing the files
+simple configs from my w11 current desktop, a work in progress,
+you dont have to do anything else before installing the files other than installing the JetBrainsMono Nerd fonts.
+
 ## Credits
 - [Wallpaper](https://wall.alphacoders.com/big.php?i=360189) (there are multiple sources so the link is where I think I got it from)
 - [Rainmeter](https://www.rainmeter.net/)
@@ -17,4 +18,4 @@ you dont have to do anything else after installing the files
 <img width="1920" height="1080" alt="desktop sc" src="https://github.com/user-attachments/assets/e5d62baf-f554-4d01-9ca8-a93c2b78671f" />
 
 ## Extra
-I also set the windows accent color to a gray tone
+I also set the windows accent color to a gray tone, black and white text theme spicetify, same the browser, etc.
