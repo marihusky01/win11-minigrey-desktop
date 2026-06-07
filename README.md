@@ -19,4 +19,4 @@ That is it :) admire the Homura wallpaper.
 <img width="1920" height="1080" alt="desktop sc" src="https://github.com/user-attachments/assets/e5d62baf-f554-4d01-9ca8-a93c2b78671f" />
 
 ## Extra
-I also set the windows accent color to a gray tone, black and white text theme spicetify, same the browser, etc.
+I'd recommend setting the Windows accent color to a greyish tone and other stuff to match, haha.
